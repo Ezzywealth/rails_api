@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Greetings App] <a name="about-project"></a>
+# 📖 [Greetings App Api] <a name="about-project"></a>
 
-**[Greetings App]** is a simple api that responds with a random greeting object in json format
+**[Greetings App Api]** is a simple api that responds with a random greeting object in json format
 
 - Link to [FrontEnd APP](https://github.com/Ezzywealth/rails_react-frontend)
 
@@ -88,7 +88,7 @@ git clone https://github.com/Ezzywealth/rails_api
 Install this project with:
 
 ```sh
-  cd rails_capstone
+  cd rails_api
   bundle install
 ```
 
